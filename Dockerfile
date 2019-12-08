@@ -14,6 +14,7 @@ RUN apt-get update -y && \
     curl \
     wget \
     zip \
+    gawk \
     git \
     tmux \
     zsh \
